@@ -1,0 +1,9 @@
+{
+  "name": "@stampers/spaces",
+  "version": "0.1.0",
+  "repository": "Proposal-Stampers/spaces",
+  "license": "MIT",
+  "files": [
+    "spaces"
+  ]
+}
