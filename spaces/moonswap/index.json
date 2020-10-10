@@ -5,6 +5,7 @@
   "decimals": 18,
   "symbol": "MoonSwap",
   "defaultView": "core",
+  "showOnlyCore": true, 
   "address": "0x86ce2d22b5661814c4157560894024bb1cc4a9b5",
   "token": "0x86ce2d22b5661814c4157560894024bb1cc4a9b5",
   "core": [
