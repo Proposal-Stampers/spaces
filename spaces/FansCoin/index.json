@@ -1,0 +1,19 @@
+{
+  "key": "fanscoin",
+  "name": "FansCoin",
+  "chainId": 2,
+  "decimals": 18,
+  "symbol": "FC",
+  "defaultView": "all",
+  "showOnlyCore": true, 
+  "address": "0x87010faf5964d67ed070bc4b8dcafa1e1adc0997",
+  "token": "0x87010faf5964d67ed070bc4b8dcafa1e1adc0997",
+  "core": [
+    "0x1fc46011b87442d6A2f25E2E48101CdC9019839B",
+    "0x1A6E12Ea5dF7F3a0Bf07c2F49934E8F9C67BCd33",
+    "0x1D40aF779aD1421Cb6c567e70E4AC7b58Cd65d72",
+    "0x17AD8446E056Ae494E09c3277E6a7BB57d86446C"
+  ],
+  "min": 0,
+  "invalid": []
+}
