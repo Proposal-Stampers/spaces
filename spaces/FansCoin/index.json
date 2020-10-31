@@ -1,7 +1,7 @@
 {
   "key": "fanscoin",
   "name": "FansCoin",
-  "chainId": 2,
+  "chainId": 1029,
   "decimals": 18,
   "symbol": "FC",
   "defaultView": "all",
