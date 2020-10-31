@@ -6,8 +6,8 @@
   "symbol": "FC",
   "defaultView": "all",
   "showOnlyCore": true, 
-  "address": "0x87010faf5964d67ed070bc4b8dcafa1e1adc0997",
-  "token": "0x87010faf5964d67ed070bc4b8dcafa1e1adc0997",
+  "address": "0x8e2f2e68eb75bb8b18caafe9607242d4748f8d98",
+  "token": "0x8e2f2e68eb75bb8b18caafe9607242d4748f8d98",
   "core": [
     "0x1fc46011b87442d6A2f25E2E48101CdC9019839B",
     "0x1A6E12Ea5dF7F3a0Bf07c2F49934E8F9C67BCd33",
