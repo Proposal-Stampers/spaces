@@ -1,7 +1,7 @@
 {
   "key": "example",
   "name": "Example",
-  "chainId": 1,
+  "chainId": 1029,
   "decimals": 18,
   "symbol": "EXAMPLE",
   "defaultView": "core",
