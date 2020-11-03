@@ -1,7 +1,7 @@
 {
   "key": "moonswap",
   "name": "MOONEVD",
-  "chainId": 2,
+  "chainId": 1029,
   "decimals": 18,
   "symbol": "MoonSwap",
   "defaultView": "all",
