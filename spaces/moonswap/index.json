@@ -4,7 +4,7 @@
   "chainId": 1029,
   "decimals": 18,
   "symbol": "MoonSwap",
-  "defaultView": "core",
+  "defaultView": "all",
   "showOnlyCore": true,
   "address": "0x8adac42295f974cd9bfaed690a8e26b2afb6a158",
   "token": "0x8adac42295f974cd9bfaed690a8e26b2afb6a158",
