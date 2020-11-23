@@ -2,7 +2,7 @@
   "key": "moonswap",
   "name": "MoonSwap",
   "chainId": 1029,
-  "decimals": 18,
+  "decimals": 9,
   "symbol": "MOONPOWAH",
   "defaultView": "all",
   "showOnlyCore": true,
