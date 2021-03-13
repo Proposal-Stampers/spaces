@@ -1,0 +1,15 @@
+{
+  "key": "flux",
+  "name": "FluxProtocol",
+  "chainId": 1029,
+  "decimals": 18,
+  "symbol": "cFLUX",
+  "defaultView": "core",
+  "address": "0x8C143DcA2b093C282bfF46Ea19e92b5FFde1CcB3",
+  "token": "0x8C143DcA2b093C282bfF46Ea19e92b5FFde1CcB3",
+  "core": [
+    "0x1528268Fdd04827639FEa1d76c0E4545399FabCe"
+  ],
+  "min": 100,
+  "invalid": []
+}
