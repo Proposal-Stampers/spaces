@@ -1,0 +1,18 @@
+{
+  "key": "trea",
+  "name": "Trea",
+  "chainId": 1029,
+  "decimals": 18,
+  "symbol": "TREA",
+  "defaultView": "all",
+  "showOnlyCore": true, 
+  "address": "0x83f924c12144807da960ddb8934256f9aca14408",
+  "token": "0x83f924c12144807da960ddb8934256f9aca14408",
+  "core": [
+    "0x1f68f613Dd526184A5F5fB08E034264688888888",
+    "0x10f675BA31ab908fA3DC4aBA54b4Ec2F1Fdd3944",
+    "0x1DC8aA61fb211C142278eB6Ec112d59D5cB0D39d"
+  ],
+  "min": 0,
+  "invalid": []
+}
