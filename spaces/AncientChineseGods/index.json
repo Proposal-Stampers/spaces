@@ -1,0 +1,17 @@
+{
+  "key": "acg",
+  "name": "ACG",
+  "chainId": 1029,
+  "decimals": 18,
+  "symbol": "YAO",
+  "defaultView": "core",
+  "showOnlyCore": true,
+  "address": "0x81014a1505d6AEC8A8b864943df5E86C43E809Ec",
+  "token": "0x81014a1505d6AEC8A8b864943df5E86C43E809Ec",
+  "core": [
+    "cfx:aamagkhcrm9p4gzf2v4wmk4rxwztxsvej6jb4dgx0r",
+    "cfx:aakfprrwbg75h0tuf26ae73gz4kkde8k6p193s12yu"
+  ],
+  "min": 0,
+  "invalid": []
+}
