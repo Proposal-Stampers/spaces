@@ -15,5 +15,16 @@
     "0x12e82ab4580b81e53528620b046cdf36ebc9e346"
   ],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "strategies": [
+    [
+      "erc20-balance-of",
+      {
+        "address": "cfx:acajs4drdx3jsextjud26ps9mgvd5a3u2ah3kvpkrg",
+        "decimals": 9,
+        "symbol": "MOONPOWAH",
+        "weight": 1
+      }
+    ]
+  ]
 }
