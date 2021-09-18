@@ -1,0 +1,15 @@
+{
+  "key": "shouyi-conflux",
+  "name": "ShouYi-Conflux",
+  "chainId": 1029,
+  "decimals": 18,
+  "symbol": "SYI",
+  "defaultView": "all",
+  "address": "cfx:aca5j9hgety87rbkgbhnpvcjyssppn8enprwxbvxga",
+  "token": "cfx:aca5j9hgety87rbkgbhnpvcjyssppn8enprwxbvxga",
+  "core": [
+    "cfx:aakcxfexkv04ea12mmzds5pte8mg3e7ez6w1pmt2wv"
+  ],
+  "min": 0,
+  "invalid": []
+}
