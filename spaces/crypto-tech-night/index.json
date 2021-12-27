@@ -1,0 +1,17 @@
+{
+  "key": "crypto-tech-night",
+  "name": "CTN",
+  "chainId": 1029,
+  "decimals": 1,
+  "symbol": "CTN",
+  "defaultView": "core",
+  "address": "cfx:acerys7vb8cmngjtdeg50a8cj51bg66526vunkud2b",
+  "token": "cfx:acerys7vb8cmngjtdeg50a8cj51bg66526vunkud2b",
+  "core": [
+    "cfx:aakd5956fh133fk2cjpa6s909tygdk0wuebaxkyeva",
+    "cfx:aak96r7ucnhpby3wfehdzktweu0rsvrsgpu3s9r61b",
+    "cfx:aajrhd9gk172h69y556f8sm5wupsdjkryp914gkkz6"
+  ],
+  "min": 6,
+  "invalid": []
+}
