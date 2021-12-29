@@ -1,0 +1,19 @@
+{
+  "key": "points",
+  "name": "Points",
+  "chainId": 1029,
+  "decimals": 18,
+  "symbol": "POS",
+  "defaultView": "all",
+  "showOnlyCore": true, 
+  "address": "cfx:acav5v98np8t3m66uw7x61yer1ja1jm0dpzj1zyzxv",
+  "token": "cfx:acav5v98np8t3m66uw7x61yer1ja1jm0dpzj1zyzxv",
+  "core": [
+    "cfx:aakw2xtnjyu85dd955xd8129375s15xsxepbaypre8",
+    "cfx:aan6xn6erwpp8hju5dw6mhcgx0p74r4se2dcp5u53g",
+    "cfx:aaka3rbae6un9g0vk1hy088rrxu6zh2dby07mrkwf2",
+    "cfx:aat336nvc9ndrfwdk9e8h18hub4rcr1gyye6z7bgsj"
+  ],
+  "min": 0.1,
+  "invalid": []
+}
