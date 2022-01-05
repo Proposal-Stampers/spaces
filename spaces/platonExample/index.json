@@ -1,0 +1,15 @@
+{
+  "key": "example",
+  "name": "Example",
+  "chainId": 100,
+  "decimals": 18,
+  "symbol": "EXAMPLE",
+  "defaultView": "core",
+  "address": "lat1287f7t4jh63wn68e7yz040mu8p34602z8477pk",
+  "token": "lat1287f7t4jh63wn68e7yz040mu8p34602z8477pk",
+  "core": [
+    "lat1287f7t4jh63wn68e7yz040mu8p34602z8477pk"
+  ],
+  "min": 0,
+  "invalid": []
+}
