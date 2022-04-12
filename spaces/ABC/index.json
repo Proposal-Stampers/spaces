@@ -10,7 +10,9 @@
   "token": "0x83df048e99b0f5cdd710840d6cd82ab57c286c6f",
   "core": [
     "0x1000e445b3ecfadc71d529e07aa8bb70232ffccc",
-    "0x1453b965e6a95ef1cffb0a85012d1f7fc03a25e3"
+    "0x1453b965e6a95ef1cffb0a85012d1f7fc03a25e3",
+    "cfx:aajab3cf0t0tz1dv4yy8a8zj1r2cgn963ug3306rv3",
+    "cfx:aamfhsnf64yz76st9pfjmakrd796asvf6pfbrsypxw"
   ],
   "min": 0,
   "invalid": []
